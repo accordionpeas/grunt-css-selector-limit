@@ -1,6 +1,6 @@
 # grunt-css-selector-limit
 
-> Grunt plugin for detecting if any CSS file in a set has more selectors than IE's limit of 4095. Wraps css-selector-limit module.
+> Grunt plugin for detecting if any CSS file in a set has more selectors than IE's limit of 4095. Wraps the [css-selector-limit module](https://github.com/accordionpeas/css-selector-limit).
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
@@ -34,7 +34,7 @@ grunt.initConfig({
 
 ### Options
 
-All options are the same as those defined in the [css-selector-limit module]('https://github.com/accordionpeas/css-selector-limit').
+All options are the same as those defined in the [css-selector-limit module](https://github.com/accordionpeas/css-selector-limit).
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
